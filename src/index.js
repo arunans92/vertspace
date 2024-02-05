@@ -2,4 +2,4 @@
 require('./css/style.css');
 
 // JavaScript
-require('./js/app');
+// require('./js/app');

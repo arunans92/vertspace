@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:arunans92/thinkcraft.git"
+    "url": "git@github.com:arunans92/vertspace.git"
   },
   "keywords": [
-    "thinkcraft"
+    "vertspace"
   ],
   "author": "Arunan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/arunans92/thinkcraft/issues"
+    "url": "https://github.com/arunans92/vertspace/issues"
   },
-  "homepage": "https://github.com/arunans92/thinkcraft#readme",
+  "homepage": "https://github.com/arunans92/vertspace#readme",
   "dependencies": {
   },
   "devDependencies": {

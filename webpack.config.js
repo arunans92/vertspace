@@ -26,7 +26,12 @@ module.exports = {
         new CopyWebpackPlugin({
             patterns: [
                 { from: "assets/images", to: "assets/images" },
-                { from: 'favicon.ico', to: 'favicon.ico', toType: 'file' },
+                { from: "assets/fonts/icomoon/fonts", to: "assets/fonts/icomoon/fonts" },
+                { from: "assets/fonts/icomoon/style.css", to: "assets/fonts/icomoon/style.css" },
+                { from: "src/css/lib", to: "src/css/lib" },
+                { from: "src/js/lib", to: "src/js/lib" },
+                { from: "src/js/app.js", to: "src/js/app.js" },
+                { from: 'favicon.png', to: 'favicon.png', toType: 'file' },
             ],
         }),
     ],
